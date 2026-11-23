@@ -1,0 +1,1545 @@
+
+# PROJECT: LOSTBYTE
+# PREMIUM PROFESSIONAL DATA RECOVERY WEBSITE
+# COMPLETE MASTER DEVELOPMENT PROMPT
+
+Act as a world-class digital product design agency, senior UI/UX designer, frontend architect, backend engineer, 3D web designer, SEO specialist and conversion optimization expert.
+
+Your task is to DESIGN AND BUILD a complete, premium, production-ready, multi-page website for LOSTBYTE.
+
+This is not a request for a mockup, wireframe, design concept or simple landing page.
+
+Build the actual working application with all required pages, components, navigation, animations, integrations, forms, SEO, responsive design and functionality.
+
+The website should look like an established international professional data recovery company.
+
+The most important priorities are:
+
+1. Exceptional UI/UX quality.
+2. Dedicated and SEO-optimized pages for every important service.
+3. Professional 3D visual experience.
+4. Customer trust and credibility.
+5. High-converting enquiry forms.
+6. Direct Google Forms lead collection without redirecting customers.
+7. Excellent mobile experience.
+8. Fast loading and search engine optimization.
+
+Do not compromise design quality or functionality.
+
+==================================================
+01. BUSINESS AND BRAND INFORMATION
+==================================================
+
+Brand Name: LOSTBYTE
+
+Website: https://lostbyte.in
+
+Business Category: Professional Data Recovery Services
+
+Brand Tagline:
+RECOVER WHAT MATTERS.
+
+Secondary Tagline:
+Advanced Data Recovery. Trusted Support.
+
+Primary Operating Location:
+Burari, Delhi, India.
+
+Map Reference:
+Burari Chowk, Delhi, India.
+
+Contact Number:
++91 63885 07400
+
+WhatsApp Number:
++91 63885 07400
+
+Email:
+supportlostbyte@gmail.com
+
+Business Hours:
+10:00 AM to 9:00 PM IST.
+
+Experience:
+5 Years of Practical Data Recovery Experience.
+
+Business Model:
+Specialized data recovery services with Delhi NCR pickup and delivery coordination and all-India courier acceptance.
+
+SERVICE COVERAGE:
+
+- Delhi NCR: Pickup and delivery coordination.
+- All India: Accept eligible devices through courier.
+- Bengaluru: Advanced specialist hardware recovery support.
+
+PICKUP CHARGES:
+Case-dependent. Communicate charges before pickup and obtain customer approval.
+
+INITIAL DIAGNOSIS:
+Free.
+
+RECOVERY PAYMENT POLICY:
+No Data, No Recovery Fee.
+
+ADVANCE PAYMENT:
+No advance recovery payment.
+
+CUSTOMER APPROVAL:
+Mandatory before beginning recovery.
+
+DATA PRIVACY:
+Confidential handling and NDA availability.
+
+IMPORTANT BUSINESS RULES:
+
+- LOSTBYTE is exclusively a data recovery business.
+- Do not advertise general computer repair.
+- Do not advertise laptop repair.
+- Do not advertise software installation.
+- Do not advertise networking, AMC or unrelated IT services.
+- Do not advertise mobile phone data recovery.
+- Do not invent a physical office or shop.
+- Do not publish any residential address.
+- Do not claim that Burari Chowk is an office or walk-in centre.
+- Do not claim that Bengaluru is an owned branch.
+- Do not reveal the identity or contact information of the Bengaluru specialist vendor.
+- Do not invent certifications, awards, reviews, success percentages or customer counts.
+
+All service availability is subject to technical assessment and feasibility.
+
+==================================================
+02. BRAND IDENTITY AND LOGO
+==================================================
+
+Create a completely original professional technology brand identity.
+
+Brand:
+LOSTBYTE
+
+Design an original abstract logo symbol representing:
+- Digital data recovery.
+- Restored digital information.
+- Storage technology.
+- Data reconstruction.
+
+The logo must be memorable, minimal and premium.
+
+Create:
+- Main horizontal logo.
+- Compact logo symbol.
+- Favicon.
+- Mobile header logo.
+- Footer logo.
+- Social sharing logo.
+
+Avoid generic computer, laptop or wrench icons.
+
+Use consistent brand elements across every page.
+
+==================================================
+03. PREMIUM 3D UI DESIGN
+==================================================
+
+THIS IS THE MOST IMPORTANT DESIGN REQUIREMENT.
+
+The website must have an exceptional, premium, futuristic, sophisticated technology aesthetic.
+
+Visual inspiration:
+- Premium international technology companies.
+- Professional data recovery laboratories.
+- Advanced storage technology.
+- Enterprise cybersecurity brands.
+- High-end futuristic hardware interfaces.
+
+COLOR PALETTE:
+
+Main background:
+#07090E
+
+Secondary background:
+#0C1220
+
+Card background:
+#101827
+
+Primary accent:
+Electric Cyan #00D4FF
+
+Secondary accent:
+#2563EB
+
+Main text:
+#F5F7FA
+
+Secondary text:
+#A7B2C4
+
+Use these colours consistently.
+
+HERO SECTION:
+
+Create a stunning premium 3D hero featuring a realistic hard disk drive.
+
+Visual elements:
+- Realistic HDD body.
+- Floating mechanical components.
+- Visible disk platter.
+- Read/write head representation.
+- Data particle effects.
+- Digital streams.
+- Glowing information paths.
+- Subtle blue and cyan lighting.
+- Depth and perspective.
+- Sophisticated shadows.
+- Smooth 3D rotations.
+
+Use Three.js or React Three Fiber when appropriate.
+
+3D effects should be high quality, physically convincing and performance optimized.
+
+Do not use cheap cartoon-like illustrations.
+
+PAGE ANIMATIONS:
+
+Use:
+- Smooth scroll animations.
+- Subtle parallax.
+- Sophisticated entrance transitions.
+- Carefully designed hover interactions.
+- Animated section reveals.
+- Premium loading transitions.
+- Subtle card lighting.
+- Smooth navigation transitions.
+
+Use restrained animations rather than excessive effects.
+
+IMPORTANT:
+
+Not every page needs a heavy 3D scene.
+
+Use appropriate 3D visuals in the homepage, major service pages and selected sections.
+
+Keep other pages lightweight.
+
+Provide mobile-friendly static or lightweight 3D fallbacks.
+
+Respect reduced-motion accessibility preferences.
+
+Avoid performance-heavy animation libraries unless genuinely needed.
+
+==================================================
+04. COMPLETE MULTI-PAGE ARCHITECTURE
+==================================================
+
+DO NOT BUILD A SINGLE-PAGE WEBSITE.
+
+Create a properly structured multi-page website.
+
+Every major service must have its own dedicated page.
+
+Each page must have:
+- Unique content.
+- Unique SEO title.
+- Unique meta description.
+- Unique H1.
+- Proper H2 and H3 hierarchy.
+- Relevant graphics.
+- Service-specific explanations.
+- Common failure scenarios.
+- Relevant FAQs.
+- Internal links.
+- Clear CTA buttons.
+- Breadcrumb navigation.
+- Responsive design.
+
+Create the following routes.
+
+CORE PAGES:
+
+/
+ /about
+ /services
+ /how-it-works
+ /pickup-and-drop
+ /contact
+ /faq
+ /privacy-policy
+ /terms-and-conditions
+ /service-policy
+ /data-handling-policy
+
+LOCATION PAGES:
+
+/data-recovery-delhi
+/data-recovery-delhi-ncr
+/data-recovery-burari
+
+SERVICE PAGES:
+
+/services/hdd-data-recovery
+/services/internal-hdd-recovery
+/services/external-hdd-recovery
+/services/ssd-data-recovery
+/services/sata-ssd-recovery
+/services/nvme-ssd-recovery
+/services/usb-pen-drive-recovery
+/services/memory-card-recovery
+/services/raid-data-recovery
+/services/nas-data-recovery
+/services/server-data-recovery
+/services/cctv-dvr-nvr-recovery
+/services/deleted-data-recovery
+/services/formatted-data-recovery
+/services/corrupted-drive-recovery
+/services/physical-hard-drive-recovery
+/services/firmware-data-recovery
+
+Avoid creating thin or duplicate pages.
+
+Every page must contain meaningful service-specific information.
+
+Do not generate hundreds of doorway pages or keyword-stuffed location pages.
+
+Use a reusable design system with individual content and visuals.
+
+==================================================
+05. NAVIGATION AND HEADER
+==================================================
+
+Create a premium responsive navigation system.
+
+Logo:
+LOSTBYTE.
+
+Navigation:
+- Home
+- Services
+- How It Works
+- RAID & NAS
+- Pickup & Drop
+- About Us
+- Contact
+
+Add a Services mega menu with links to all major services.
+
+Header CTAs:
+- Call Now.
+- WhatsApp.
+- Request Recovery.
+
+Header must:
+- Be visually sophisticated.
+- Have a smooth sticky-scroll behaviour.
+- Maintain excellent spacing.
+- Work perfectly on mobile.
+- Include a premium mobile navigation drawer.
+
+Do not overcrowd the header.
+
+==================================================
+06. HOMEPAGE DESIGN
+==================================================
+
+Create a stunning, high-conversion homepage.
+
+HERO:
+
+Eyebrow:
+PROFESSIONAL DATA RECOVERY SERVICES
+
+Headline:
+Lost Your Data?
+Let's Recover What Matters.
+
+Description:
+Professional data recovery solutions for hard drives, SSDs, RAID systems, NAS devices, USB drives, memory cards, servers and surveillance storage.
+
+Primary CTA:
+Request Data Recovery.
+
+Secondary CTA:
+Talk to a Recovery Specialist.
+
+Trust highlights:
+- 5 Years of Experience.
+- Free Initial Diagnosis.
+- No Data, No Recovery Fee.
+- Customer Approval First.
+
+Use a premium animated 3D HDD hero.
+
+Below the hero, add a professional trust strip.
+
+SERVICES SECTION:
+
+Headline:
+Specialized Recovery for Every Storage Challenge.
+
+Create premium visual cards for:
+
+1. HDD Recovery.
+2. External HDD Recovery.
+3. SSD Recovery.
+4. NVMe SSD Recovery.
+5. USB / Pen Drive Recovery.
+6. Memory Card Recovery.
+7. RAID Recovery.
+8. NAS Recovery.
+9. Server Data Recovery.
+10. CCTV / DVR / NVR Recovery.
+11. Deleted Data Recovery.
+12. Formatted Data Recovery.
+13. Corrupted Drive Recovery.
+14. Advanced Hardware Recovery.
+
+Every card must link to its dedicated service page.
+
+Add relevant visuals instead of repeating the same generic icon on every card.
+
+OTHER HOMEPAGE SECTIONS:
+
+- Why Choose LOSTBYTE.
+- How It Works.
+- Advanced Hardware Recovery Support.
+- Delhi NCR Pickup & Drop.
+- All India Courier Service.
+- Free Diagnosis.
+- No Data, No Recovery Fee.
+- Customer Data Confidentiality.
+- Frequently Asked Questions.
+- Contact and Enquiry CTA.
+
+==================================================
+07. COMPLETE SERVICE INFORMATION
+==================================================
+
+Create detailed service-specific content.
+
+HDD RECOVERY:
+
+Cover:
+- Internal HDD.
+- External HDD.
+- Desktop hard drives.
+- Laptop hard drives.
+- Clicking noises.
+- Beeping noises.
+- Drive not detected.
+- Bad sectors.
+- Firmware failures.
+- Deleted partitions.
+- Accidental formatting.
+- File system corruption.
+- Head-related failures.
+- Mechanical damage.
+
+SSD RECOVERY:
+
+Cover:
+- SATA SSD.
+- NVMe SSD.
+- SSD controller problems.
+- Firmware problems.
+- SSD not detected.
+- RAW partitions.
+- Deleted data.
+- Electrical issues.
+- File system corruption.
+
+USB / PEN DRIVE:
+
+Cover:
+- Accidental deletion.
+- Formatting.
+- RAW file systems.
+- Corruption.
+- Connection failures.
+- Device not detected.
+
+MEMORY CARD:
+
+Cover:
+- SD cards.
+- MicroSD.
+- Corrupted cards.
+- Formatted cards.
+- Deleted photos and videos.
+- File system damage.
+
+RAID RECOVERY:
+
+Support assessment of:
+- RAID 0.
+- RAID 1.
+- RAID 5.
+- RAID 6.
+- RAID 10.
+- Other technically supported configurations.
+
+Cover:
+- RAID degradation.
+- Multiple disk failures.
+- Failed rebuild.
+- Controller failure.
+- Missing logical volumes.
+- Accidental initialization.
+- File system corruption.
+- RAID metadata issues.
+
+NAS RECOVERY:
+
+Cover:
+- NAS volume failures.
+- RAID-based NAS.
+- Multiple drive failures.
+- File system problems.
+- Logical volume damage.
+- Deleted files.
+- Inaccessible storage.
+
+SERVER RECOVERY:
+
+Cover:
+- Server storage failure.
+- RAID failures.
+- Failed server drives.
+- File system corruption.
+- Logical volume problems.
+- Business data loss.
+
+CCTV / DVR / NVR:
+
+Cover:
+- Missing CCTV footage.
+- Deleted recordings.
+- Formatted DVR storage.
+- Corrupted footage.
+- Failed surveillance hard drives.
+- Inaccessible recordings.
+
+DELETED AND FORMATTED DATA:
+
+Cover:
+- Accidental deletion.
+- Formatted partitions.
+- Deleted files.
+- Lost partitions.
+- Data accessibility problems.
+
+PHYSICAL HARD DRIVE RECOVERY:
+
+Cover:
+- Clicking drives.
+- Head-related failures.
+- Mechanical issues.
+- Selected hardware-level problems.
+- Advanced specialist support.
+
+FIRMWARE RECOVERY:
+
+Cover:
+- Firmware-related faults.
+- Drive identification problems.
+- Selected firmware corruption conditions.
+
+Do not guarantee recovery for any device or failure.
+
+Explain that technical feasibility depends on device condition, previous handling and extent of damage.
+
+==================================================
+08. ADVANCED HARDWARE SUPPORT – BENGALURU
+==================================================
+
+Create a premium section.
+
+Headline:
+Advanced Hardware Recovery Support.
+
+Description:
+For eligible complex hardware failures, LOSTBYTE can coordinate specialist hardware recovery support in Bengaluru, India.
+
+Examples:
+- HDD head-related failures.
+- Selected head replacement procedures.
+- Complex mechanical problems.
+- Selected electronic failures.
+- Other eligible advanced hardware cases.
+
+Process:
+
+1. Initial device assessment.
+2. Feasibility discussion.
+3. Estimate and customer approval.
+4. Secure device coordination.
+5. Specialist recovery procedure.
+6. Customer communication.
+7. Recovery result and delivery coordination.
+
+IMPORTANT:
+- Bengaluru must be mentioned as specialist support location only.
+- Do not identify the vendor.
+- Do not publish vendor contact details.
+- Do not invent a Bengaluru LOSTBYTE branch.
+- Obtain customer approval before outstation device dispatch.
+- Explain that advanced recovery feasibility is case-dependent.
+
+==================================================
+09. HOW IT WORKS
+==================================================
+
+Create an elegant illustrated process timeline.
+
+STEP 1 – Contact LOSTBYTE.
+
+Customer explains the storage issue through phone, WhatsApp or website form.
+
+STEP 2 – FREE INITIAL DIAGNOSIS.
+
+Assess the device and identify possible failure conditions.
+
+STEP 3 – RECOVERY ASSESSMENT.
+
+Explain feasibility, possible approach and estimated charges.
+
+STEP 4 – CUSTOMER APPROVAL.
+
+Obtain explicit approval before starting recovery.
+
+STEP 5 – RECOVERY PROCESS.
+
+Conduct the appropriate software-level or hardware-level procedure.
+
+STEP 6 – RECOVERY RESULT.
+
+Inform the customer about recovery results.
+
+STEP 7 – SECURE DELIVERY.
+
+Coordinate data delivery using an agreed method.
+
+Do not invent turnaround guarantees.
+
+==================================================
+10. PICKUP AND DROP
+==================================================
+
+Create a dedicated beautiful Pickup & Drop page.
+
+Headline:
+Professional Data Recovery, Delivered to Your Convenience.
+
+COVERAGE:
+
+LOCAL:
+Delhi NCR.
+
+OUTSTATION:
+All India through courier.
+
+PICKUP CHARGES:
+Case-dependent.
+
+Create premium service cards:
+
+- Delhi NCR Pickup & Delivery.
+- All India Courier Acceptance.
+- Secure Device Handling.
+
+Explain the process:
+
+1. Customer submits enquiry.
+2. LOSTBYTE contacts the customer.
+3. Pickup feasibility and applicable charges are discussed.
+4. Customer approves pickup arrangements.
+5. Device collection is coordinated.
+6. Assessment and recovery are carried out.
+7. Result and delivery are coordinated.
+
+Clearly communicate:
+
+Pickup charges depend on location and case requirements.
+
+Pickup charges must be disclosed and approved before arrangement.
+
+Do not claim that pickup is always free.
+
+Do not show an invented physical drop-off counter.
+
+Do not show residential addresses.
+
+==================================================
+11. TRUST AND BUSINESS POLICIES
+==================================================
+
+Build a premium trust section.
+
+HIGHLIGHT 1:
+FREE INITIAL DIAGNOSIS.
+
+Customers can receive an initial assessment without a diagnosis fee.
+
+HIGHLIGHT 2:
+NO DATA, NO RECOVERY FEE.
+
+If the agreed recovery objective is not achieved, no recovery service fee is charged.
+
+Clearly disclose that separately approved pickup, courier or third-party logistics expenses may still apply.
+
+HIGHLIGHT 3:
+NO ADVANCE RECOVERY PAYMENT.
+
+No advance recovery payment is required under the normal stated business policy.
+
+HIGHLIGHT 4:
+CUSTOMER APPROVAL FIRST.
+
+No recovery process starts without customer approval.
+
+HIGHLIGHT 5:
+DATA CONFIDENTIALITY.
+
+Customer storage devices and data receive confidential handling.
+
+NDA is available on request.
+
+HIGHLIGHT 6:
+5 YEARS EXPERIENCE.
+
+Five years of practical data recovery experience.
+
+Do not create fake Google reviews, testimonials, awards, certifications or success-rate percentages.
+
+Do not generate fabricated statistics.
+
+A real testimonial section can be added later when genuine customer feedback is available.
+
+==================================================
+12. GOOGLE FORMS – MOST IMPORTANT LEAD INTEGRATION
+==================================================
+
+The website must use my EXISTING Google Form as the main customer lead collection system.
+
+This is a critical requirement.
+
+The customer must enter details inside a beautifully designed LOSTBYTE website form.
+
+NEVER redirect the customer to Google Forms.
+
+NEVER display the standard Google Forms interface.
+
+NEVER open the Google Form as a separate page or tab.
+
+NEVER require the customer to leave lostbyte.in.
+
+After submitting:
+- Save the response into my existing Google Form.
+- Keep the customer on the same LOSTBYTE website.
+- Show a beautifully designed Thank You page or success state.
+
+EXISTING GOOGLE FORM:
+
+https://docs.google.com/forms/d/e/1FAIpQLSerYlDcnBEO5i7QliyoGXvj4UyxiTualsSAzhxmM7aret4sQA/viewform?usp=pp_url
+
+FORM RESPONSE ENDPOINT:
+
+https://docs.google.com/forms/d/e/1FAIpQLSerYlDcnBEO5i7QliyoGXvj4UyxiTualsSAzhxmM7aret4sQA/formResponse
+
+EXACT FORM FIELD MAPPING:
+
+CUSTOMER NAME:
+entry.174290505
+
+CONTACT NUMBER:
+entry.358460709
+
+EMAIL ADDRESS:
+entry.450074997
+
+DRIVE TYPE:
+entry.1721769737
+
+STORAGE CAPACITY:
+entry.870729571
+
+ADDRESS:
+entry.1685007087
+
+The sample customer values appearing in the prefilled URL are examples only.
+
+Never prefill actual customer enquiries with example personal data.
+
+==================================================
+13. GOOGLE FORM CUSTOM WEBSITE FORM DESIGN
+==================================================
+
+Create a premium custom website form.
+
+It must look like a natural part of the LOSTBYTE website.
+
+Design requirements:
+
+- Dark premium surface.
+- Elegant input fields.
+- Electric cyan focus states.
+- Beautiful dropdowns.
+- Excellent typography.
+- Subtle animations.
+- Clear validation.
+- Responsive design.
+- Accessible controls.
+- Large mobile-friendly input areas.
+
+FORM FIELDS:
+
+1. Full Name.
+2. Mobile Number.
+3. Email Address.
+4. Storage Device Type.
+5. Storage Capacity.
+6. Pickup / Contact Address.
+
+DEVICE TYPE OPTIONS:
+
+- Internal HDD.
+- External HDD.
+- SATA SSD.
+- NVMe SSD.
+- USB / Pen Drive.
+- Memory Card.
+- RAID.
+- NAS.
+- Server Storage.
+- CCTV / DVR / NVR.
+- Other Supported Storage.
+
+STORAGE CAPACITY OPTIONS:
+
+- 32 GB.
+- 64 GB.
+- 128 GB.
+- 256 GB.
+- 500 GB.
+- 1 TB.
+- 2 TB.
+- 4 TB.
+- 6 TB.
+- 8 TB.
+- 10 TB.
+- 12 TB.
+- 16 TB.
+- 18 TB.
+- 20 TB.
+- Other / Not Sure.
+
+Make these options editable.
+
+The actual six Google Form fields must receive correctly mapped values.
+
+The existing Google Form may have additional validation rules. Preserve its configured required/optional field behaviour where verifiable.
+
+Do not introduce visible fields that silently fail to reach Google Forms.
+
+If additional problem-description, RAID configuration or pickup-date fields are introduced later, require corresponding Google Form questions and entry IDs before claiming that they are submitted.
+
+FORM ACCESS:
+
+Make the same enquiry form accessible from:
+
+- Homepage.
+- Main navigation.
+- Every service page.
+- Contact page.
+- Pickup & Drop page.
+- Dedicated CTA buttons.
+
+CONTEXTUAL DEVICE SELECTION:
+
+If customer clicks Request RAID Recovery:
+Automatically select RAID in the device field.
+
+If customer clicks Request SSD Recovery:
+Automatically select SSD.
+
+If customer clicks Request HDD Recovery:
+Automatically select HDD.
+
+Never automatically fill customer name, email, phone or address.
+
+==================================================
+14. GOOGLE FORM SUBMISSION TECHNICAL IMPLEMENTATION
+==================================================
+
+Implement reliable background submission.
+
+Preferred architecture:
+
+LOSTBYTE CUSTOM FORM
+        |
+        V
+GOOGLE APPS SCRIPT WEB APP BRIDGE
+        |
+        V
+EXISTING GOOGLE FORM formResponse ENDPOINT
+        |
+        V
+GOOGLE FORM RESPONSES
+
+Use a hidden iframe targeting the Apps Script web app, or another reliable same-page submission architecture.
+
+Generate the complete Google Apps Script source code.
+
+The Apps Script should:
+
+1. Accept the website form POST request.
+2. Validate required fields.
+3. Map all six fields to their exact entry IDs.
+4. Forward the response to the supplied Google Forms formResponse endpoint.
+5. Handle errors.
+6. Return a controlled success or failure result.
+7. Send a postMessage response to the LOSTBYTE website after processing.
+8. Support an explicit allowed origin for lostbyte.in.
+9. Avoid redirecting the customer to Google Forms.
+
+Use a unique submission identifier for duplicate submission protection.
+
+Use secure validation and a server-side implementation.
+
+Do not expose private tokens or sensitive configuration in the frontend.
+
+GENERATE:
+
+- Complete Apps Script code.
+- Deployment instructions.
+- Web app deployment settings.
+- Website configuration for the deployed Apps Script URL.
+- Testing instructions.
+- Troubleshooting instructions.
+
+Do not assume the integration URL already exists.
+
+Make the Apps Script URL an editable environment configuration value.
+
+IMPORTANT CROSS-ORIGIN RULE:
+
+The browser cannot read another site's iframe response directly because of cross-origin restrictions.
+
+Therefore, do not use unreliable iframe load detection as proof of successful form submission.
+
+Use the Apps Script bridge response mechanism.
+
+Only display submission success when the bridge reports a successful processing result.
+
+If submission fails, show a clear retry message.
+
+Do not falsely show a successful thank-you state.
+
+THANK-YOU SCREEN:
+
+Headline:
+Thank You for Contacting LOSTBYTE!
+
+Message:
+Your data recovery enquiry has been submitted successfully. Our team will contact you to discuss the next steps.
+
+Display:
+- Elegant animated success indicator.
+- Thank-you message.
+- Call Now button.
+- WhatsApp button.
+- Return to Homepage button.
+
+Keep the customer on lostbyte.in at all times.
+
+The form submission process must be tested using a dummy enquiry and its presence verified in the actual Google Form Responses section.
+
+Do not claim successful verification before performing the test.
+
+==================================================
+15. GOOGLE FORM LEAD COLLECTION IS PRIMARY
+==================================================
+
+Google Forms must be the primary lead destination.
+
+Avoid requiring Firebase or a paid database subscription just to receive enquiries.
+
+A separate database or admin dashboard may be implemented as an optional enhancement, but it must not replace or silently bypass the Google Form.
+
+If any optional database is configured:
+- Do not expose customer enquiries publicly.
+- Use proper authorization.
+- Protect credentials.
+- Do not duplicate or lose form submissions.
+
+Build the primary lead collection functionality around the existing Google Form.
+
+==================================================
+16. PHONE, WHATSAPP AND EMAIL INTEGRATION
+==================================================
+
+PHONE NUMBER:
+
++91 63885 07400
+
+CALL LINK:
+
+tel:+916388507400
+
+WHATSAPP LINK:
+
+https://wa.me/916388507400
+
+EMAIL:
+
+supportlostbyte@gmail.com
+
+EMAIL LINK:
+
+mailto:supportlostbyte@gmail.com
+
+Create:
+
+- Header call button.
+- Header WhatsApp button.
+- Homepage contact CTA.
+- Service-specific call CTA.
+- Service-specific WhatsApp CTA.
+- Floating WhatsApp button.
+- Contact page actions.
+- Sticky mobile action bar.
+
+WhatsApp messages should be prefilled with relevant enquiry information when available.
+
+Example:
+
+Hello LOSTBYTE, I need professional data recovery assistance. My device type is [Device Type]. Please contact me regarding the recovery process.
+
+Never simulate message sending.
+
+==================================================
+17. GOOGLE MAPS INTEGRATION
+==================================================
+
+Create a premium location section.
+
+Headline:
+Serving Delhi NCR and Customers Across India.
+
+MAP REFERENCE:
+
+Burari Chowk, Burari, Delhi, India.
+
+Use this embed URL:
+
+https://www.google.com/maps?q=Burari+Chowk,+Delhi,+India&output=embed
+
+Add:
+- Responsive Google Maps embed.
+- Burari Chowk landmark reference.
+- Burari, Delhi label.
+- External directions link.
+- Delhi NCR service information.
+
+IMPORTANT:
+
+Burari Chowk is a geographical landmark reference only.
+
+Do not label it as:
+- LOSTBYTE Office.
+- LOSTBYTE Shop.
+- Physical Drop-off Centre.
+- Registered Branch.
+
+Do not publish any invented building number or residential address.
+
+Display:
+
+"Our operations are based around Burari, Delhi, with pickup and courier coordination available for eligible locations."
+
+==================================================
+18. ABOUT LOSTBYTE
+==================================================
+
+Create a dedicated About page.
+
+Headline:
+Specialized in Recovering What Matters Most.
+
+Content:
+
+LOSTBYTE is a dedicated data recovery service focused on helping individuals and businesses regain access to important information stored on damaged, corrupted, inaccessible or accidentally formatted storage devices.
+
+With five years of practical data recovery experience, LOSTBYTE works on software-level recovery and selected hardware-level cases.
+
+The business uses professional data recovery tools and equipment and coordinates specialist support for eligible advanced hardware recovery requirements.
+
+Emphasize:
+- Technical experience.
+- Responsible device handling.
+- Customer communication.
+- Confidentiality.
+- Transparent assessment.
+- Customer approval.
+- Professional recovery approach.
+
+Do not invent a founder name, staff list, company registration or physical office.
+
+==================================================
+19. FAQ PAGE
+==================================================
+
+Create a detailed dedicated FAQ page.
+
+Use a premium accordion interface.
+
+Questions:
+
+1. What is data recovery?
+2. Which devices do you support?
+3. Can you recover data from clicking HDDs?
+4. Can formatted data be recovered?
+5. Can data be recovered from SSDs?
+6. Do you provide NVMe recovery?
+7. Do you provide RAID recovery?
+8. Do you provide NAS recovery?
+9. Can you recover CCTV footage?
+10. Do you provide free diagnosis?
+11. What does No Data, No Recovery Fee mean?
+12. Do you require advance payment?
+13. Is customer approval required?
+14. Do you offer Delhi NCR pickup?
+15. Can customers send devices from other cities?
+16. What happens to complex hardware cases?
+17. How does Bengaluru specialist support work?
+18. Is customer information confidential?
+19. Is NDA available?
+20. How long does recovery take?
+21. Can every damaged device be recovered?
+22. Do you provide mobile phone data recovery?
+
+Provide honest explanations.
+
+Mobile data recovery response:
+
+"LOSTBYTE currently specializes in storage media, HDD, SSD, RAID, NAS, server and surveillance storage recovery. Mobile phone data recovery is not offered."
+
+Do not guarantee recovery time or recovery results.
+
+==================================================
+20. CONTACT PAGE
+==================================================
+
+Build a beautiful dedicated contact page.
+
+Display:
+
+LOSTBYTE
+Professional Data Recovery Services
+
+Phone:
++91 63885 07400
+
+WhatsApp:
++91 63885 07400
+
+Email:
+supportlostbyte@gmail.com
+
+Hours:
+10 AM – 9 PM IST.
+
+Location:
+Burari, Delhi.
+
+Services:
+Delhi NCR pickup and delivery coordination.
+All India courier acceptance.
+
+Include:
+- Contact form CTA.
+- Call Now.
+- WhatsApp Now.
+- Email Us.
+- Google Maps landmark reference.
+- Business hours.
+- Service coverage.
+
+Do not display an invented physical office address.
+
+==================================================
+21. FOOTER DESIGN
+==================================================
+
+Create a visually premium multi-column footer.
+
+COLUMN 1:
+LOSTBYTE logo.
+Recover What Matters.
+Professional Data Recovery Services.
+
+COLUMN 2:
+Quick Links.
+Home.
+About.
+Services.
+How It Works.
+Contact.
+
+COLUMN 3:
+Services.
+HDD Recovery.
+SSD Recovery.
+RAID Recovery.
+NAS Recovery.
+USB Recovery.
+Server Recovery.
+CCTV Recovery.
+
+COLUMN 4:
+Contact.
++91 63885 07400.
+supportlostbyte@gmail.com.
+Burari, Delhi.
+10 AM – 9 PM IST.
+
+LEGAL:
+Privacy Policy.
+Terms & Conditions.
+Service Policy.
+Data Handling Policy.
+
+Copyright:
+© [Current Year] LOSTBYTE. All Rights Reserved.
+
+==================================================
+22. LEGAL AND DATA PRIVACY PAGES
+==================================================
+
+Create professionally written pages.
+
+PRIVACY POLICY:
+
+Explain:
+- Enquiry data collection.
+- Purpose of collecting customer contact details.
+- Enquiry follow-up.
+- Pickup coordination.
+- Confidentiality.
+- Data retention and handling.
+
+TERMS AND CONDITIONS:
+
+Explain:
+- Device assessment.
+- Recovery feasibility.
+- Customer approval.
+- Recovery charges.
+- Logistics expenses.
+- Limitations of recovery.
+
+SERVICE POLICY:
+
+Explain:
+- Free initial diagnosis.
+- No Data, No Recovery Fee.
+- Separately disclosed pickup and courier expenses.
+- No advance recovery payment under normal policy.
+- Customer approval requirements.
+
+DATA HANDLING POLICY:
+
+Explain:
+- Confidential device handling.
+- Limited access to customer data.
+- NDA availability.
+- Secure recovery data delivery coordination.
+- Responsible data handling.
+
+Do not fabricate legal certifications or compliance claims.
+
+==================================================
+23. DEDICATED PAGE SEO
+==================================================
+
+Every page must be optimized individually.
+
+Do not use one generic SEO description across the site.
+
+For each important service page, create:
+
+- Unique SEO title.
+- Unique meta description.
+- Canonical URL.
+- Unique H1.
+- Useful service-specific content.
+- Contextual H2/H3 structure.
+- Internal links.
+- Breadcrumbs.
+- Relevant images.
+- Proper alt text.
+- Relevant FAQs.
+- Applicable structured data.
+
+TARGET KEYWORDS NATURALLY:
+
+Data Recovery Delhi.
+Data Recovery Services in Delhi.
+Hard Drive Data Recovery Delhi.
+HDD Data Recovery Delhi.
+SSD Data Recovery Delhi.
+External HDD Recovery.
+NVMe SSD Recovery.
+RAID Recovery India.
+NAS Data Recovery India.
+USB Data Recovery.
+Memory Card Recovery.
+Server Data Recovery.
+CCTV Data Recovery.
+Data Recovery Burari.
+Data Recovery Delhi NCR.
+
+TECHNICAL SEO:
+
+- XML sitemap.
+- Robots.txt.
+- Open Graph metadata.
+- Social sharing metadata.
+- Canonical tags.
+- Search-friendly routes.
+- Breadcrumb navigation.
+- Semantic HTML.
+- Fast loading.
+- Internal linking.
+- Proper structured data.
+
+Use truthful business details.
+
+Do not add fake:
+- Reviews.
+- Ratings.
+- Certifications.
+- Office addresses.
+- Customer statistics.
+- Recovery success percentages.
+
+LOCATION SEO:
+
+Create useful Delhi, Delhi NCR and Burari content.
+
+Avoid duplicate pages and keyword-stuffed locality pages.
+
+==================================================
+24. PERFORMANCE AND ACCESSIBILITY
+==================================================
+
+The website must be fast and responsive.
+
+Optimize for:
+- Desktop.
+- Laptop.
+- Tablet.
+- Android.
+- iPhone.
+
+Technical requirements:
+
+- Responsive layouts.
+- Lazy-loaded images.
+- Optimized 3D assets.
+- Modern image formats.
+- Semantic elements.
+- Proper focus indicators.
+- Accessible labels.
+- Keyboard navigation.
+- Good colour contrast.
+- Reduced-motion support.
+- No horizontal overflow.
+- No unnecessary dependencies.
+
+Aim for excellent Lighthouse performance and Core Web Vitals.
+
+==================================================
+25. DEVELOPMENT STACK
+==================================================
+
+Use a modern maintainable stack.
+
+Preferred:
+- React.
+- TypeScript.
+- Vite or an appropriate supported framework.
+- Tailwind CSS or equivalent design system.
+- React Router or an appropriate routing solution.
+- Three.js / React Three Fiber.
+- Reusable component architecture.
+- Responsive CSS.
+
+Use a proper configuration system for:
+- Business phone.
+- WhatsApp.
+- Email.
+- Domain.
+- Google Maps.
+- Apps Script deployment URL.
+- SEO defaults.
+
+Do not hardcode secrets in frontend code.
+
+Do not add unnecessary paid services.
+
+Google Forms and the Apps Script bridge must be the primary lead collection architecture.
+
+Generate complete source code and all setup instructions.
+
+==================================================
+26. ADMIN AND BUSINESS CONFIGURATION
+==================================================
+
+Create a clean maintainable configuration file for business details.
+
+Make the following editable:
+
+Brand name.
+Website URL.
+Phone.
+WhatsApp.
+Email.
+Location.
+Working hours.
+Service coverage.
+Pickup policy.
+Form endpoint.
+Google Apps Script URL.
+SEO metadata.
+
+If implementing an optional protected admin area, use proper authentication.
+
+Only the authorized business owner should be able to access customer records.
+
+Never expose customer enquiries through public routes.
+
+The admin feature must not be necessary for Google Forms submission to work.
+
+==================================================
+27. FINAL TESTING AND QUALITY ASSURANCE
+==================================================
+
+Before finishing, perform a complete functional review.
+
+NAVIGATION:
+[ ] All pages load.
+[ ] All routes work.
+[ ] No dead links.
+[ ] Mobile menu works.
+[ ] Mega menu works.
+
+DESIGN:
+[ ] Premium homepage.
+[ ] Correct typography.
+[ ] Consistent colors.
+[ ] Professional logo.
+[ ] Quality 3D visuals.
+[ ] Good mobile layouts.
+[ ] No broken image assets.
+
+SERVICES:
+[ ] HDD pages.
+[ ] SSD pages.
+[ ] NVMe page.
+[ ] USB page.
+[ ] Memory card page.
+[ ] RAID page.
+[ ] NAS page.
+[ ] Server page.
+[ ] CCTV page.
+[ ] Deleted and formatted recovery.
+[ ] Physical and firmware recovery.
+
+LEAD GENERATION:
+[ ] Website enquiry form works.
+[ ] All six fields are mapped correctly.
+[ ] Google Form receives responses.
+[ ] Customer stays on lostbyte.in.
+[ ] Thank-you message works.
+[ ] Submission failure is handled honestly.
+[ ] Duplicate submission protection.
+[ ] Mobile form tested.
+
+CONTACT:
+[ ] Call links.
+[ ] WhatsApp links.
+[ ] Email links.
+[ ] Google Maps.
+[ ] Pickup details.
+
+SEO:
+[ ] Unique titles.
+[ ] Unique descriptions.
+[ ] Canonical links.
+[ ] Sitemap.
+[ ] Robots.
+[ ] Structured data.
+[ ] Internal links.
+
+SECURITY:
+[ ] No exposed secrets.
+[ ] No public customer records.
+[ ] Form validation.
+[ ] Safe data handling.
+
+Do not mark any integration as verified until it has actually been tested.
+
+==================================================
+28. FINAL DELIVERY REQUIREMENTS
+==================================================
+
+Build the complete working LOSTBYTE website.
+
+Do not stop at homepage generation.
+
+Create all important dedicated pages.
+
+Create the actual design system.
+
+Implement all interactions.
+
+Generate all source files.
+
+Generate the Google Apps Script integration code.
+
+Provide clear setup instructions for deploying the Apps Script bridge and connecting the website.
+
+Explain where to configure the deployment URL.
+
+Test the website's forms and navigation.
+
+Report any feature that still needs external configuration honestly.
+
+Do not invent successful Google Form submission tests.
+
+Do not leave buttons non-functional.
+
+Do not use fake placeholder testimonials.
+
+Do not show Coming Soon labels for any supported service.
+
+Do not redirect customers to Google Forms.
+
+The website must be extremely UI-focused and conversion-oriented.
+
+FINAL BRAND VISION:
+
+LOSTBYTE should look like a premium international data recovery company with the credibility of a specialist recovery laboratory.
+
+The design must be memorable.
+The content must be trustworthy.
+The pages must be search optimized.
+The customer journey must be simple.
+The enquiry experience must be seamless.
+
+The primary goal is to generate genuine data recovery enquiries and build LOSTBYTE into a recognizable professional data recovery brand.
+
+BRAND:
+LOSTBYTE
+
+TAGLINE:
+RECOVER WHAT MATTERS.

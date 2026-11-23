@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://lostbyte.in/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://lostbyte.in/about</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/how-it-works</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/pickup-and-drop</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/contact</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/faq</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/privacy-policy</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://lostbyte.in/terms-and-conditions</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://lostbyte.in/service-policy</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://lostbyte.in/data-handling-policy</loc><changefreq>yearly</changefreq><priority>0.5</priority></url>
+
+  <url><loc>https://lostbyte.in/data-recovery-delhi</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/data-recovery-delhi-ncr</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/data-recovery-burari</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <url><loc>https://lostbyte.in/services/hdd-data-recovery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/services/internal-hdd-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services/external-hdd-recovery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/services/ssd-data-recovery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/services/sata-ssd-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services/nvme-ssd-recovery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/services/usb-pen-drive-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services/memory-card-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services/raid-data-recovery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/services/nas-data-recovery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/services/server-data-recovery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/services/cctv-dvr-nvr-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services/deleted-data-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services/formatted-data-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services/corrupted-drive-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://lostbyte.in/services/physical-hard-drive-recovery</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://lostbyte.in/services/firmware-data-recovery</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>

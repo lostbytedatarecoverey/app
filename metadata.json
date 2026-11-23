@@ -1,0 +1,6 @@
+{
+  "name": "LOSTBYTE — Professional Data Recovery Services",
+  "description": "Specialized data recovery services for HDDs, SSDs, NVMe drives, RAID arrays, NAS systems, servers, USB drives, memory cards, and CCTV storage. Serving Delhi NCR and all of India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
